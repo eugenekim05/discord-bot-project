@@ -22,7 +22,7 @@ Jake Bot is an AI-driven Discord bot that interacts with users to provide intell
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/jake-bot.git
+    git clone https://github.com/eugenekim05/discord-bot-project.git
     ```
 2. Navigate to the project directory:
     ```bash
